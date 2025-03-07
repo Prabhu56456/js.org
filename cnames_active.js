@@ -2491,6 +2491,7 @@ var cnames_active = {
   "pplayer": "m4tec.github.io/PenguinPlayer",
   "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
+  "prabhu": "prabhu56456.github.io",
   "pranab": "pranabdas.github.io/pranab",
   "pranshuchittora": "pranshuchittora.github.io",
   "pratyay": "cname.vercel-dns.de", // noCF
